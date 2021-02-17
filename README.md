@@ -23,7 +23,7 @@
 - ⚡ Fun fact: ...
 
 ---
-### Codificación 💻☕💻
+## Codificación 💻☕💻
 
 <img src="https://www.qweb.com.mx/wp-content/uploads/2018/06/1499794874html5-js-css3-logo-png.png" width="200px" />
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="120px" />
@@ -39,13 +39,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="70px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" width="70px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="80px" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="60px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="140px" />
 <img src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="140px" />
 <img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="130px" />
 
 ---
+# Publicaciones Recientes
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 
 
 
