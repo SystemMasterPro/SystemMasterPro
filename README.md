@@ -44,10 +44,9 @@
 <img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="130px" />
 
 ---
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+## Last YT videos
+<!-- YT:START -->
+<!-- YT:END -->
 
 
 
