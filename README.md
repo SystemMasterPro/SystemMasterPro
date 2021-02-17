@@ -41,7 +41,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="80px" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="140px" />
 <img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="140px" />
-<img align="left" src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="130px" />
+<img  src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="130px" />
 
 <br/>
 
