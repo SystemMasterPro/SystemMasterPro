@@ -21,39 +21,39 @@
 ---
 ## Codificación 💻☕💻
 
-<img align="left" src="https://www.qweb.com.mx/wp-content/uploads/2018/06/1499794874html5-js-css3-logo-png.png" width="150px" />
+<img align="left" src="https://www.qweb.com.mx/wp-content/uploads/2018/06/1499794874html5-js-css3-logo-png.png" width="120px" alt="html-css-js" />
 
-<img align="left" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="100px" />
+<img align="left" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="90px" alt="nodejs" />
 
-<img align="left" src="https://www.salamarkesa.com/wp-content/uploads/2019/10/angular-servidor-subir.png" width="100px" />
+<img align="left" src="https://www.salamarkesa.com/wp-content/uploads/2019/10/angular-servidor-subir.png" width="90px" alt="angular" />
 
-<img align="left" src="http://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" width="60px" />
+<img align="left" src="http://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" width="60px" alt="ionic" />
 
-<img align="left" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="60px" />
+<img align="left" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="50px" alt="mongo" />
 
-<img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" />
+<img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="90px" alt="mysql" />
 
-<img align="left" src="https://lh3.googleusercontent.com/proxy/iHtOKD9em8Z6a9b_Gm3Vd0vkalC9TMY6pARFuIGXbwQ6bs2IUAFeYsw1rTho-jy2VQzwNGiYpbYbJcGGuNTYhOHdJ2-6d3rJUazvxqs" width="80px" />
+<img align="left" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="50px" alt="python" />
 
-<img align="left" src="https://elwhileinfinito.files.wordpress.com/2015/03/django_logo1.png?w=517&h=269" width="90px" />
+<img align="left" src="https://elwhileinfinito.files.wordpress.com/2015/03/django_logo1.png?w=517&h=269" width="90px" alt="django" />
 
-<img align="left" src="https://www.softdor.com/blog/wp-content/uploads/2019/03/postgresql-logo.png" width="70px" />
+<img align="left" src="https://www.softdor.com/blog/wp-content/uploads/2019/03/postgresql-logo.png" width="70px" alt="postgress" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px" alt="typescript" />
 
-<img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="60px" />
+<img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="60px" alt="java" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="50px" />  
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="50px" alt="bootstrap" />  
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" width="50px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" width="50px" alt="c#" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px" alt="react" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="80px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="80px" alt="sqlite" />
 
-<img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="80px" />
+<img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="80px" alt="nest" />
 
-<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="90px" />  
+<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="90px" alt="spring boot" />  
 
 <br/>
 
