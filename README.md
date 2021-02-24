@@ -35,19 +35,19 @@
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="50px" alt="python" />
 
-<img align="left" src="https://elwhileinfinito.files.wordpress.com/2015/03/django_logo1.png?w=517&h=269" width="90px" alt="django" />
+<img align="left" src="https://elwhileinfinito.files.wordpress.com/2015/03/django_logo1.png?w=517&h=269" width="80px" alt="django" />
 
-<img align="left" src="https://www.softdor.com/blog/wp-content/uploads/2019/03/postgresql-logo.png" width="70px" alt="postgress" />
+<img align="left" src="https://www.softdor.com/blog/wp-content/uploads/2019/03/postgresql-logo.png" width="60px" alt="postgress" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px" alt="typescript" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px" alt="typescript" /> 
 
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="60px" alt="java" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="50px" alt="bootstrap" />  
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="40px" alt="bootstrap" />  
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" width="50px" alt="c#" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" width="40px" alt="c#" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px" alt="react" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="40px" alt="react" />
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="80px" alt="sqlite" />
 
