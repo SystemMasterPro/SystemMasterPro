@@ -33,7 +33,7 @@
 
 <img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="90px" alt="mysql" />
 
-<img align="left" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="50px" alt="python" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="50px" alt="python" />
 
 <img align="left" src="https://elwhileinfinito.files.wordpress.com/2015/03/django_logo1.png?w=517&h=269" width="90px" alt="django" />
 
