@@ -60,6 +60,11 @@
 ---
 ## Last YT videos 💻🎬
 <!-- YT:START -->
+- [Descargar e Instalar Fuente Victor-Mono con ligaduras habilitadas en Visual Studio Code](https://www.youtube.com/watch?v=d68HhGPUKEI)
+- [EXPOSICION PROYECTO RAPIDS](https://www.youtube.com/watch?v=mJBIrLByS34)
+- [SEGUNDO PLATO - VOZ VEIS](https://www.youtube.com/watch?v=nW6nb2y3GXU)
+- [Proyecto Fin De Ciclo BD Avanzado 💪](https://www.youtube.com/watch?v=GZnbAs6-rbo)
+- [Acompañame a estar solo - Ricardo Arjona](https://www.youtube.com/watch?v=wazohmADysw)
 <!-- YT:END -->
 ---
 
