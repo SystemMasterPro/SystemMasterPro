@@ -34,7 +34,7 @@
 
 <img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="120px" height="70px" alt="mysql" />
 
-<img align="left" src="https://freepikpsd.com/media/2019/10/Python-Transparent-Background.png" width="120px" height="70px" alt="python" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="120px" height="70px" alt="python" />
 
 <img align="left" src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="120px" height="70px" alt="django" />
 
