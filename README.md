@@ -56,7 +56,7 @@
 
 <img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="120px" height="70px" alt="spring boot" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="100px" height="50px" alt="GO" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="120px" height="70px" alt="GO" />
 
 <br/>
 
