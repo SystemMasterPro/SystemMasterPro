@@ -54,7 +54,11 @@
 
 <img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="120px" height="70px" alt="nest" />
 
-<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="120px" height="70px" alt="spring boot" />  
+<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="120px" height="70px" alt="spring boot" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="120px" height="70px" alt="GO" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/200px-Ruby_logo.svg.png" width="50px" height="40px" alt="Ruby" />  
 
 <br/>
 
