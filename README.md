@@ -52,7 +52,7 @@
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="120px" height="70px" alt="sqlite" />
 
-<img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="120px" height="70px" alt="nest" />
+<img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="100px" height="60px" alt="nest" />
 
 <img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="120px" height="70px" alt="spring boot" />
 
