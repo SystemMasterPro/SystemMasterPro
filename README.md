@@ -61,8 +61,9 @@
 <br/>
 <br/>
 
-----
+---
 ### Last YT videos 💻🎬
+---
 
 <!-- YT:START -->
 - [COLORES HEXADECIMALES ALEATORIOS EN JAVASCRIPT 2021](https://www.youtube.com/watch?v=Ij_KCn0S04s)
@@ -71,7 +72,4 @@
 - [Proyecto Fin de Ciclo 5to Desarrollo de Software (Calidad de Software)](https://www.youtube.com/watch?v=gqrLvva0yCg)
 - [Descargar e Instalar Fuente Victor-Mono con ligaduras habilitadas en Visual Studio Code](https://www.youtube.com/watch?v=d68HhGPUKEI)
 <!-- YT:END -->
-----
-
-
-
+---
