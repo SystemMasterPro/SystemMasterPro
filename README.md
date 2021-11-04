@@ -48,9 +48,9 @@
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="120px" height="70px" alt="c#" />
 
-<img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="120px" height="70px" alt="react" />
+<img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="100px" height="60px" alt="react" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="120px" height="70px" alt="sqlite" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="100px" height="50px" alt="sqlite" />
 
 <img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="100px" height="60px" alt="nest" />
 
