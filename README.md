@@ -40,7 +40,7 @@
 
 <img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="50px" height="50px" alt="postgress" />
 
-<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="70px" height="40px" alt="typescript" /> 
+<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="70px" height="30px" alt="typescript" /> 
 
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="50px" height="50px" alt="java" />
 
@@ -54,7 +54,7 @@
 
 <img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="50px" height="50px" alt="nest" />
 
-<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="50px" height="50px" alt="spring boot" />
+<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="50px" height="30px" alt="spring boot" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="50px" height="30px" alt="GO" />
 
