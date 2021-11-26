@@ -22,11 +22,11 @@
 ---
 ## Codificación 💻☕💻
 
-<img align="left" src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png" width="90px" height="80px" alt="html-css-js" />
+<img align="left" src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png" width="50px" height="50px" alt="html-css-js" />
 
-<img align="left" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="90px" height="80px" alt="nodejs" />
+<img align="left" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="50px" height="50px" alt="nodejs" />
 
-<img align="left" src="https://dwglogo.com/wp-content/uploads/2017/03/AngularJS_logo_004.svg" width="90px" height="80px" alt="angular" />
+<img align="left" src="https://dwglogo.com/wp-content/uploads/2017/03/AngularJS_logo_004.svg" width="50px" height="50px" alt="angular" />
 
 <img align="left" src="http://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" width="90px" height="80px" alt="ionic" />
 
