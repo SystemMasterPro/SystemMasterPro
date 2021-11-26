@@ -40,7 +40,7 @@
 
 <img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="90px" height="80px" alt="postgress" />
 
-<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="90px" height="80px" alt="typescript" /> 
+<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="90px" height="60px" alt="typescript" /> 
 
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="90px" height="80px" alt="java" />
 
@@ -50,13 +50,13 @@
 
 <img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="90px" height="80px" alt="react" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="90px" height="80px" alt="sqlite" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="90px" height="60px" alt="sqlite" />
 
 <img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="90px" height="80px" alt="nest" />
 
-<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="90px" height="80px" alt="spring boot" />
+<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="90px" height="60px" alt="spring boot" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="90px" height="80px" alt="GO" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="90px" height="60px" alt="GO" />
 
 <img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="90px" height="80px" alt="Webpack" />
 <br/>
