@@ -34,7 +34,7 @@
 
 <img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="90px" height="80px" alt="mysql" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="90px" height="80px" alt="python" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="90px" height="60px" alt="python" />
 
 <img align="left" src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="90px" height="80px" alt="django" />
 
@@ -44,11 +44,11 @@
 
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="90px" height="80px" alt="java" />
 
-<img align="left" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" width="90px" height="70px" alt="bootstrap" />  
+<img align="left" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" width="90px" height="60px" alt="bootstrap" />  
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="90px" height="80px" alt="c#" />
 
-<img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="90px" height="80px" alt="react" />
+<img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="90px" height="60px" alt="react" />
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="90px" height="60px" alt="sqlite" />
 
