@@ -40,11 +40,11 @@
 
 <img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="90px" height="80px" alt="postgress" />
 
-<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="90px" height="60px" alt="typescript" /> 
+<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="90px" height="40px" alt="typescript" /> 
 
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="90px" height="80px" alt="java" />
 
-<img align="left" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" width="90px" height="80px" alt="bootstrap" />  
+<img align="left" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" width="90px" height="70px" alt="bootstrap" />  
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="90px" height="80px" alt="c#" />
 
@@ -52,7 +52,7 @@
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="90px" height="60px" alt="sqlite" />
 
-<img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="90px" height="80px" alt="nest" />
+<img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="90px" height="60px" alt="nest" />
 
 <img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="90px" height="60px" alt="spring boot" />
 
