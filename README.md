@@ -36,7 +36,7 @@
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="80px" height="80px" alt="python" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="60px" height="40px" alt="GO" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="40px" height="20px" alt="GO" />
 <img align="left" src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="80px" height="80px" alt="django" />
 
 <img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="80px" height="80px" alt="postgress" />
