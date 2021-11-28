@@ -48,15 +48,11 @@
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="80px" height="80px" alt="c#" />
 
-<img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="50px" height="50px" alt="react" />
+<img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="80px" height="80px" alt="react" />
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="50px" height="50px" alt="sqlite" />
+<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="80px" height="80px" alt="spring boot" />
 
-<img align="left" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" width="50px" height="50px" alt="nest" />
-
-<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="50px" height="30px" alt="spring boot" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="50px" height="30px" alt="GO" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="80px" height="80px" alt="GO" />
 
 <img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="50px" height="50px" alt="Webpack" />
 <br/>
