@@ -22,6 +22,10 @@
 ---
 ## Codificación 💻☕💻
 
+<img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="80px" height="80px" alt="Webpack" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="60px" height="60px" alt="GO" />
+
 <img align="left" src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png" width="80px" height="80px" alt="html-css-js" />
 
 <img align="left" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="80px" height="80px" alt="nodejs" />
@@ -43,10 +47,6 @@
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px" height="80px" alt="java" />
 
 <img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" width="80px" height="80px" alt="spring boot" />
-
-<img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="80px" height="80px" alt="Webpack" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="60px" height="60px" alt="GO" />
 
 <br/>
 
