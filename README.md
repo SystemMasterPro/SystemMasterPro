@@ -22,7 +22,7 @@
 ---
 ## Codificación 💻☕💻
 
-<img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="80px" height="80px" alt="Webpack" />
+<img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="60px" height="60px" alt="Webpack" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="60px" height="60px" alt="GO" />
 
