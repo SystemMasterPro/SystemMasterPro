@@ -29,14 +29,15 @@
 <img align="left" src="https://dwglogo.com/wp-content/uploads/2017/03/AngularJS_logo_004.svg" width="80px" height="80px" alt="angular" />
 
 <img align="left" src="http://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" width="80px" height="80px" alt="ionic" />
+
 <img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="60px" height="60px" alt="Webpack" />
+
 <img align="left" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="80px" height="80px" alt="mongo" />
 
 <img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80px" height="80px" alt="mysql" />
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="80px" height="80px" alt="python" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="40px" height="20px" alt="GO" />
 <img align="left" src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="80px" height="80px" alt="django" />
 
 <img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="80px" height="80px" alt="postgress" />
