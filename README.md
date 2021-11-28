@@ -42,8 +42,6 @@
 
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px" height="80px" alt="java" />
 
-<img align="left" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" width="80px" height="80px" alt="bootstrap" />  
-
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="80px" height="80px" alt="c#" />
 
 <img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="80px" height="80px" alt="react" />
