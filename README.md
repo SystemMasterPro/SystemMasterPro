@@ -38,15 +38,15 @@
 
 <img align="left" src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="80px" height="80px" alt="django" />
 
-<img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="50px" height="50px" alt="postgress" />
+<img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="80px" height="80px" alt="postgress" />
 
-<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="70px" height="30px" alt="typescript" /> 
+<img align="left" src="https://www.techgeeknext.com/img/typescript/typescript-logo.png" width="80px" height="80px" alt="typescript" /> 
 
-<img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="50px" height="50px" alt="java" />
+<img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px" height="80px" alt="java" />
 
-<img align="left" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" width="50px" height="50px" alt="bootstrap" />  
+<img align="left" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" width="80px" height="80px" alt="bootstrap" />  
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50px" height="50px" alt="c#" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="80px" height="80px" alt="c#" />
 
 <img align="left" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" width="50px" height="50px" alt="react" />
 
