@@ -30,7 +30,7 @@
 
 <img align="left" src="http://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" width="80px" height="80px" alt="ionic" />
 
-<img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="60px" height="60px" alt="Webpack" />
+<img align="left" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="60px" height="60px" alt="Webpack" />
 
 <img align="left" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="80px" height="80px" alt="mongo" />
 
