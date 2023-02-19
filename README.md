@@ -28,10 +28,6 @@
 
 <img align="left" src="https://dwglogo.com/wp-content/uploads/2017/03/AngularJS_logo_004.svg" width="90px" height="80px" alt="angular" />
 
-<img align="left" src="http://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" width="80px" height="90px" alt="ionic" />
-
-<img align="left" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="60px" height="60px" alt="Webpack" />
-
 <img align="left" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="80px" height="80px" alt="mongo" />
 
 <img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80px" height="80px" alt="mysql" />
@@ -40,14 +36,10 @@
 
 <img align="left" src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="60px" height="60px" alt="django" />
 
-<img align="left" src="https://i1.wp.com/windtux.com/wp-content/uploads/2019/10/postgresql.png?fit=700%2C500&ssl=1" width="60px" height="60px" alt="postgress" />
-
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px" height="80px" alt="java" />
 
 <br/>
 
----
----
 ---
 ### Last YT videos 💻🎬
 ---
