@@ -34,21 +34,6 @@
 
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px" height="80px" alt="java" />
 
-
-
-<br/>
-
-
----
-### Last YT videos 💻🎬
-
-<!-- YT:START -->
-- [COLORES HEXADECIMALES ALEATORIOS EN JAVASCRIPT 2021](https://www.youtube.com/watch?v=Ij_KCn0S04s)
-- [INSTALAR MOODLE EN SMARTPHONE 2021](https://www.youtube.com/watch?v=YUgOC9FGNnA)
-- [Tutorial Moodle para la capacitación de los docentes del distrito 19D04 Yantzaza - El Pangui 2021](https://www.youtube.com/watch?v=XaMrXPcUgqg)
-- [Proyecto Fin de Ciclo 5to Desarrollo de Software &lpar;Calidad de Software&rpar;](https://www.youtube.com/watch?v=gqrLvva0yCg)
-- [Descargar e Instalar Fuente Victor-Mono con ligaduras habilitadas en Visual Studio Code](https://www.youtube.com/watch?v=d68HhGPUKEI)
-<!-- YT:END -->
 ---
 ## 2023
 ### Django and Angular 💻❤️
