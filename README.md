@@ -36,5 +36,5 @@
 
 
 ## 2023
-### Django and Angular 💻❤️
+### Django and Angular 💻❤️ 💻
 ---
