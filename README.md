@@ -35,6 +35,6 @@
 <img align="left" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="80px" height="80px" alt="java" />
 
 
-## 2023
+## 2023 💪👏
 ### Django and Angular 💻❤️ 
 ---
